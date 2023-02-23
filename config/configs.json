@@ -18,7 +18,13 @@
             "pics_path": "pics",
             "should_update": false,
             "should_read": false
-        }
+        },
+        {"url": "https://github.com/Project-MPV/Project-MPV-Customs",
+        "repo_name": "Project MPV Customs",
+        "repo_path": "./repositories/Project-MPV-Customs",
+        "should_update": true,
+        "should_read": true,
+        },
     ],
     "urls": [
         {
